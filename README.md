@@ -8,4 +8,4 @@
 + CSS: sử dụng các css như color, background color, display, text-alain,margin,padding,...
 + JAVASCRIPT: function,array, oop,hàm push, hàm splice 
 + thư viện khác: https://boxicons.com/
-## link sản phẩm: https://github.com/huynhvinh8398/CaseStudyy
+## link sản phẩm: https://huynhvinh8398.github.io/CaseStudyy/
